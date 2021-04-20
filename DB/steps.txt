@@ -20,3 +20,5 @@ add Route::apiResource('/products','ProductController');
 
 
 4. Creating Migration properly
+
+5. Add Database seeds
