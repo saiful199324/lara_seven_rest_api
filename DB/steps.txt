@@ -1,0 +1,9 @@
+1. Creating key generate
+
+php artisan key:generate
+
+2. Upload total foler to the git
+
+
+3. Creating model
+
