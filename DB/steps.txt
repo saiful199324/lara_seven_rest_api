@@ -17,3 +17,6 @@ php artisan make:model Model/Review -a
 go to route/api.php
 
 add Route::apiResource('/products','ProductController');
+
+
+4. Creating Migration properly
