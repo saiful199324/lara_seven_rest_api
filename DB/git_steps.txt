@@ -7,4 +7,10 @@ git remote add origin https://github.com/saiful199324/lara_seven_rest_api.git
 git push -u origin main
 
 
-Hello 
+After modify
+
+git status
+git add .
+git commit -m "git commit after modify"
+git branch -M main
+git push -u origin main
