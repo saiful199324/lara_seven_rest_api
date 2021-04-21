@@ -1,3 +1,16 @@
+https://www.youtube.com/watch?v=CtTlShXh3vY&list=PL_XxuZqN0xVCeyQE1bi8dQHaITIT0FbsM
+https://www.youtube.com/watch?v=lvlnf9HW_Jw&list=PLe30vg_FG4OT274vxiC_cXwQm2zqjf3Rh
+https://github.com/saiful199324/
+
+
+What is rest basics?
+
+GET, POST,PUT,Delete
+
+rest = REpresentational State Transfer Application Programmin
+
+
+
 1. Creating key generate
 
 php artisan key:generate
