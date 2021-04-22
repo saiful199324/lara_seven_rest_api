@@ -35,3 +35,11 @@ add Route::apiResource('/products','ProductController');
 4. Creating Migration properly
 
 5. Add Database seeds
+
+6. Creating Relation with product and reviews
+
+7. Create Resurce API
+
+php artisan make:resource Product/ProductCollection
+
+php artisan make:resource Product/ProductResource
